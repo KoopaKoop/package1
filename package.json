@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KoopaKoop/package1/issues"
   },
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ },
   "homepage": "https://github.com/KoopaKoop/package1#readme"
 }
